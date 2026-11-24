@@ -28,3 +28,6 @@ This project was initialized as a Git repository. Example follow-up commits:
 git add index.html styles.css README.md ACCESSIBILITY-AUDIT.md
 git commit -m "Build semantic student activity portal"
 ```
+
+## Suggested final verification
+Run the Lighthouse or WAVE checks described in `ACCESSIBILITY-AUDIT.md` and add the real results before submitting.
